@@ -3,23 +3,42 @@
 _This repository serves as an overview for the projects I will be working on during this semester._
 
 ```mermaid
-flowchart LR
-    subgraph SemesterProjectsOverview[Semester Projects Overview]
-        Project1[Project 1 - Agile & Scrum] -- Uses --> Repo1[Repository for Project 1]
-        Project2[Project 2 - API Development] -- Uses --> Repo2[Repository for Project 2]
-        Project3[Project 3 - Standards & Patterns] -- Uses --> Repo3[Repository for Project 3]
-        Project4[Project 4 - Testing & RPA] -- Uses --> Repo4[Repository for Project 4]
-        Project5[Project 5 - Reporting & Monitoring] -- Uses --> Repo5[Repository for Project 5]
-    end
+sequenceDiagram
+    Kanban Project->>+Overview Repository: Links the Repository
+    Overview Repository->>+Kanban Project: Links the Project
+    Overview Repository->>+Milestones:  Creates Milestones
+    Overview Repository->>+Labels: Creates Lables
+    Overview Repository->>+Pull Requests: Creates Pull Requests
+    Kanban Project-->>+Milestones: Access Milestones
+    Kanban Project-->>+Labels: Access Labels
+    Kanban Project-->>+Pull Requests:  Access Linked Pull Requests
 
-
+  
 ```
-
-
 
 ## Project Repositories
 
 _Each project will have its own repository._
+
+
+<p align="center">
+  <strong>Semester Projects Overview</strong>
+</p>
+
+```mermaid
+flowchart LR
+
+    style SemesterProjectsOverview fill:#FFFFFF,stroke:#000000,stroke-width:0px
+
+    subgraph SemesterProjectsOverview[&nbsp]
+        Project1[Project 1 - Agile & Scrum] -- Uses Repository: --> Repo1[ CMPG 323 Overview]
+        Project2[Project 2 - API Development] -- Uses Repository: --> Repo2[CMPG 323 Project 2]
+        Project3[Project 3 - Standards & Patterns] -- Uses Repository: --> Repo3[CMPG 323 Project 3]
+        Project4[Project 4 - Testing & RPA] -- Uses Repository: --> Repo4[CMPG 323 Project 4]
+        Project5[Project 5 - Reporting & Monitoring] -- Uses Repository: --> Repo5[CMPG 323 Project 5]
+    end
+
+```
 
 ### [Project 1](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742)
 <details>
