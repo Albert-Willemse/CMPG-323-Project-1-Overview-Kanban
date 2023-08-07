@@ -1,28 +1,11 @@
 # CMPG-323-Overview-38205742
 
-_This repository serves as an overview for the projects I will be working on during this semester._
-
-```mermaid
-sequenceDiagram
-    Kanban Project->>+Overview Repository: Links the Repository
-    Overview Repository->>+Kanban Project: Links the Project
-    Overview Repository->>+Milestones:  Creates Milestones
-    Overview Repository->>+Labels: Creates Lables
-    Overview Repository->>+Pull Requests: Creates Pull Requests
-    Kanban Project-->>+Milestones: Access Milestones
-    Kanban Project-->>+Labels: Access Labels
-    Kanban Project-->>+Pull Requests:  Access Linked Pull Requests
-
-  
-```
+_This repository serves as an overview for all the projects._
 
 ## Project Repositories
 
-_Each project will have its own repository._
-
-
 <p align="center">
-  <strong>Semester Projects Overview</strong>
+  <strong>Semester Projects and Repsitories Overview</strong>
 </p>
 
 ```mermaid
@@ -37,8 +20,8 @@ flowchart LR
         Project4[Project 4 - Testing & RPA] -- Uses Repository: --> Repo4[CMPG 323 Project 4]
         Project5[Project 5 - Reporting & Monitoring] -- Uses Repository: --> Repo5[CMPG 323 Project 5]
     end
-
 ```
+_Each project will have its own repository._
 
 ### [Project 1](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742)
 <details>
@@ -151,3 +134,19 @@ To ensure the security of sensitive information such as API keys and passwords, 
 ## Kanban Project & Progress Tracking
 
 My GitHub Kanban project will help me visualize my progress throughout the semester. I've set up different views to track tasks, sprints, and assessment deadlines. I will regularly update the Kanban board to reflect the current status of tasks.
+
+### How the project and repository are integrated
+
+```mermaid
+sequenceDiagram
+    Kanban Project->>+Overview Repository: Links the Repository
+    Overview Repository->>+Kanban Project: Links the Project
+    Overview Repository->>+Milestones:  Creates Milestones
+    Overview Repository->>+Labels: Creates Lables
+    Overview Repository->>+Pull Requests: Creates Pull Requests
+    Kanban Project-->>+Milestones: Access Milestones
+    Kanban Project-->>+Labels: Access Labels
+    Kanban Project-->>+Pull Requests:  Access Linked Pull Requests
+
+  
+```
