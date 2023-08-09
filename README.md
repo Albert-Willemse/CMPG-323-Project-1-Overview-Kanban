@@ -150,3 +150,14 @@ sequenceDiagram
 
   
 ```
+### Sprint 1 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/f7ff067f-1109-4eff-8886-b3718dfd17c6)
+
+### Sprint 2 - Burndown chart
+### Sprint 3 - Burndown chart
+### Sprint 4 - Burndown chart
+### Sprint 5 - Burndown chart
+### Sprint 6 - Burndown chart
+### Sprint 7 - Burndown chart
+
