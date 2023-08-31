@@ -38,7 +38,7 @@ Training in:
 
 </details>
 
-### Project 2 (Link to be added)
+### [Project 2](https://github.com/Albert-Willemse/CMPG-323-Project-2-38205742)
 <details>
 <summary>API Development</summary>
   
