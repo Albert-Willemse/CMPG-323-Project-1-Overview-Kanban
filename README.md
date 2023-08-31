@@ -38,7 +38,7 @@ Training in:
 
 </details>
 
-### Project 2 (Link to be added)
+### [Project 2](https://github.com/Albert-Willemse/CMPG-323-Project-2-38205742)
 <details>
 <summary>API Development</summary>
   
@@ -154,7 +154,7 @@ sequenceDiagram
 
 ![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/f7ff067f-1109-4eff-8886-b3718dfd17c6)
 
-### Sprint 2 - Burndown chart
+### _Sprint 2 - Burndown chart_
 ### Sprint 3 - Burndown chart
 ### Sprint 4 - Burndown chart
 ### Sprint 5 - Burndown chart
