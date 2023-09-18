@@ -54,7 +54,7 @@ Training in:
 
 </details>
   
-### [Project 3]((https://github.com/Albert-Willemse/CMPG-323-Project-3-38205742))
+### [Project 3](https://github.com/Albert-Willemse/CMPG-323-Project-3-38205742)
 <details>
 <summary>Standards & Patterns</summary>
   
