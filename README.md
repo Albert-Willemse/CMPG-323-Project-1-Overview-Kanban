@@ -71,7 +71,7 @@ Training in:
 
 </details>
   
-### Project 4 (Link to be added)
+### [Project 4](https://github.com/Albert-Willemse/CMPG-323-Project-4-38205742)
 <details>
 <summary>Testing & RPA</summary>
   
