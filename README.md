@@ -154,10 +154,27 @@ sequenceDiagram
 
 ![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/f7ff067f-1109-4eff-8886-b3718dfd17c6)
 
-### _Sprint 2 - Burndown chart_
+### Sprint 2 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/48cbf32b-1c08-4f83-9139-1d7ca0c57d78)
+
 ### Sprint 3 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/08bac793-713c-4ee2-9e23-cba7d37052da)
+
 ### Sprint 4 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/1c1a7426-ec9b-4ea4-87f0-a85ba12802fa)
+
+
 ### Sprint 5 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/8855e62a-9ca5-47a1-8ca8-65ad535b8fa5)
+
+
 ### Sprint 6 - Burndown chart
+
+
+
 ### Sprint 7 - Burndown chart
 
