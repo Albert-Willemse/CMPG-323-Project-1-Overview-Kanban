@@ -87,7 +87,7 @@ Training in:
 
 </details>
   
-### Project 5 (Link to be added)
+### [Project 5](https://github.com/Albert-Willemse/CMPG-323-Project-5-38205742)
 <details>
 <summary>Reporting & Monitoring</summary>
   
@@ -173,6 +173,8 @@ sequenceDiagram
 
 
 ### Sprint 6 - Burndown chart
+
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/2b56818c-bb5f-4901-825a-0290d3e86497)
 
 
 
