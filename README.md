@@ -180,3 +180,4 @@ sequenceDiagram
 
 ### Sprint 7 - Burndown chart
 
+![image](https://github.com/Albert-Willemse/CMPG-323-Overview-38205742/assets/112475881/71a71cac-1d6e-4b91-809d-07667e424722)
