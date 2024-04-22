@@ -1,4 +1,4 @@
-# CMPG-323-Overview-38205742
+# CMPG-323-Project-1-Overview-Kanban
 
 _This repository serves as an overview for all the projects._
 
